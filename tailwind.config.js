@@ -6,6 +6,12 @@ module.exports = {
     fontFamily: {
       sans: ['TT Norms Pro', 'Helvetica', 'Arial', 'sans-serif'],
       mono: ['SF Mono', 'Consolas', 'Liberation Mono', 'Menlo', 'monospace']
+    },
+    extend: {
+      colors: {
+        'cw-red': '#f26f59',
+        'cw-white': '#f5f9ea'
+      }
     }
   },
   variants: {
