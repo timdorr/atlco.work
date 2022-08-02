@@ -4,7 +4,7 @@ const Home: NextPage = () => {
   return (
     <div className="bg-cw-red grid place-items-center h-screen">
       <a
-        href="https://join.slack.com/t/switchyardscommunity/shared_invite/zt-1dk58dxzl-8O55PQE0BalEhzeApKJlVw"
+        href="https://join.slack.com/t/atlcoworkers/shared_invite/zt-1dk58dxzl-8O55PQE0BalEhzeApKJlVw"
         className="block relative h-96 w-96"
       >
         <svg viewBox="0 0 758.33 758.33" className="fill-cw-white">
