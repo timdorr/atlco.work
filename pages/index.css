@@ -2,19 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@font-face {
-  font-family: 'TT Norms Pro';
-  font-weight: 1 999;
-  src: url('/tt-norms-pro-var-roman.woff2') format('woff2');
-}
-
-@font-face {
-  font-family: 'TT Norms Pro';
-  font-weight: 1 999;
-  font-style: italic;
-  src: url('/tt-norms-pro-var-italic.woff2') format('woff2');
-}
-
 *::selection {
   @apply bg-yellow-600;
   @apply text-gray-900;

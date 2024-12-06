@@ -4,7 +4,7 @@ module.exports = {
   darkMode: 'media',
   theme: {
     fontFamily: {
-      sans: ['TT Norms Pro', 'Helvetica', 'Arial', 'sans-serif'],
+      sans: ['InterVariable', 'Helvetica', 'Arial', 'sans-serif'],
       mono: ['SF Mono', 'Consolas', 'Liberation Mono', 'Menlo', 'monospace']
     },
     extend: {
